@@ -1,0 +1,2 @@
+usuario,contraseña,tipoUsuario,resultados,No. de capturas,observaciones
+CHERNANDEZ,inicio,administrador,Autenticacion de usuario administrador exitosa,3,Elemento //button[text()='Aceptar'] no encontrado

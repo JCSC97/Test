@@ -1,0 +1,17 @@
+{
+ "login"         : "CHERNANDEZ",
+ "passwd"        : "inicio",
+ "url"           : "http://ec2-34-210-56-229.us-west-2.compute.amazonaws.com:3001/#/",
+ "locatorLogin"  : "XPATH",
+ "valueLocatorI" : "//input[@type='text']",
+ "typeUser"      : "administrador"
+}
+#-comments-# __NO MODIFIQUE ESTA LINEA__
+Modifique los valores (de la DERECHA) DENTRO de las comillas.
+No borre ni altere nada fuera de esos valores.
+DATOS:
+login es el nombre de usuario
+passwd es su contraseña
+url es la dirección del portal donde se encuentra el formulario para iniciar sesión
+locatorLogin es como usted desea encontrar el campo de login
+valueLocatorI es el parámetro por el cual se efectuará la búsqueda del "locatorLogin"

@@ -1,0 +1,9 @@
+{
+"modulo"       : "Sociedades",
+"filtro"       : "busqueda",
+"buscarPor"    : "Acción",
+"busca"        : "Eliminación",
+"fechaInicio"  : "30/05/2014",
+"fechaFinal"   : "23/06/2019"
+}
+#-comments-#
