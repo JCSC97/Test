@@ -1,3 +1,3 @@
 import time
-hrs=time.strftime("%H:%M,%S")
+hrs=time.strftime("%H:%M:%S")
 print(hrs)
